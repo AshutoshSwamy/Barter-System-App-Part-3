@@ -153,6 +153,13 @@ export default class WelcomeScreen extends Component{
                 <Text style = {{textAlign : "center"}}>Sign Up</Text>
             </TouchableOpacity>
 
+            <Image
+            
+            source = {{
+
+                uri : 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBfXIu8QK5pc_cIuXAImShTZm4DzHPdAP-ag&usqp=CAU'
+            }}
+            />
         </View>
         </KeyboardAvoidingView>
 
